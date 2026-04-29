@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge&logo=tensorflow)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Ongoing-success?style=for-the-badge)
 
 ---
 
